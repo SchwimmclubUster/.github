@@ -1,3 +1,5 @@
+![Schwimmclub Uster (SCU)](../assets/scu-logo.png)
+
 # Schwimmclub Uster (SCU)
 
 ## Unser Verein
